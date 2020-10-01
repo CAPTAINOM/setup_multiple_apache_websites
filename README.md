@@ -1,5 +1,5 @@
 <h1>Purpose:</h1>
-<p>Quickly create multiple websites (http and https) after a standard Apache installation to get rolling right away!</p>
+<p>To Quickly create multiple websites (http and https) after a standard Apache installation to get rolling right away!</p>
 <h1>Target audience:</h1>
 <p>Web developers or systems administrators who want to quickly set up multiple websites on a freshly installed Apache web server for development or testing purposes.</p>
 <h1>Under the hood:</h1>
